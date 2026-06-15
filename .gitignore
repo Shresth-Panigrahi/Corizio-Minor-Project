@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .DS_Store
 Stock_Price_Prediction_LSTM_executed.ipynb
+.venv/
+**/.venv/
